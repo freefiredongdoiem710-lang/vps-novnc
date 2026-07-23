@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://slight-conventions-substance-felt.trycloudflare.com/vnc.html
+URL       : https://announcement-enjoying-configured-port.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-23 16:12:28
+Created   : 2026-07-23 23:20:01
 =======================================================

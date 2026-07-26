@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://permissions-expert-closed-courage.trycloudflare.com/vnc.html
+URL       : https://designed-universe-brandon-geometry.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-26 14:52:34
+Created   : 2026-07-26 18:20:19
 =======================================================

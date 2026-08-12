@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://segment-replacement-aside-testimonials.trycloudflare.com/vnc.html
+URL       : https://spell-treated-mississippi-loop.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 15:57:17
+Created   : 2026-08-12 20:38:59
 =======================================================

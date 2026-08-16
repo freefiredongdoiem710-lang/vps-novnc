@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sustainability-tribune-concerned-jan.trycloudflare.com/vnc.html
+URL       : https://marilyn-monroe-gpl-departments.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 10:18:07
+Created   : 2026-08-16 15:17:19
 =======================================================

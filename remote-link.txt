@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://heath-provision-telephony-claimed.trycloudflare.com/vnc.html
+URL       : https://spice-dem-manuals-helps.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 15:27:14
+Created   : 2026-08-19 20:24:04
 =======================================================

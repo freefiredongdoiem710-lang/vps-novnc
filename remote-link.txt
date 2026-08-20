@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://spice-dem-manuals-helps.trycloudflare.com/vnc.html
+URL       : https://fate-final-nerve-investigator.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 20:24:04
+Created   : 2026-08-20 00:54:21
 =======================================================

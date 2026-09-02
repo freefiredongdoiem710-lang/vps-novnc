@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://split-attributes-tue-insulation.trycloudflare.com/vnc.html
+URL       : https://slide-asked-variable-frozen.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 02:23:34
+Created   : 2026-09-02 09:16:53
 =======================================================

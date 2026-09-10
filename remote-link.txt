@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bloom-reception-fraser-next.trycloudflare.com/vnc.html
+URL       : https://gateway-powerful-salad-ins.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-10 18:01:28
+Created   : 2026-09-10 22:13:52
 =======================================================

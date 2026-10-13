@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://apt-hang-bench-attractive.trycloudflare.com/vnc.html
+URL       : https://completely-gentleman-united-insulation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-13 12:27:33
+Created   : 2026-10-13 20:30:36
 =======================================================

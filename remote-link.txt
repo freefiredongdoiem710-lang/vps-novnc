@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://patterns-itself-installations-lie.trycloudflare.com/vnc.html
+URL       : https://operators-kelly-boys-larger.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 09:54:39
+Created   : 2026-10-14 14:53:16
 =======================================================

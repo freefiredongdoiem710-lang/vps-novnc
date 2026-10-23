@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://representative-beginners-contribution-entitled.trycloudflare.com/vnc.html
+URL       : https://generation-remedy-west-publishers.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 22:57:39
+Created   : 2026-10-23 02:55:46
 =======================================================

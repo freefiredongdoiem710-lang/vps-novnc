@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://generation-remedy-west-publishers.trycloudflare.com/vnc.html
+URL       : https://lifestyle-courses-allergy-strips.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-23 02:55:46
+Created   : 2026-10-23 09:44:30
 =======================================================

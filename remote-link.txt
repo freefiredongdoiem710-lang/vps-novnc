@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://convenience-rated-reproductive-sonic.trycloudflare.com/vnc.html
+URL       : https://reduce-aware-lounge-brands.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 22:16:16
+Created   : 2026-10-26 02:43:06
 =======================================================

@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://capacity-lace-extraordinary-host.trycloudflare.com/vnc.html
+URL       : https://lowest-expression-affects-levy.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-04 21:02:41
+Created   : 2026-11-05 04:41:01
 =======================================================

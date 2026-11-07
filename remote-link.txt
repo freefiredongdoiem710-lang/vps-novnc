@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://kings-possibly-muscle-expressions.trycloudflare.com/vnc.html
+URL       : https://promising-members-depends-plain.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 12:41:40
+Created   : 2026-11-07 04:04:43
 =======================================================

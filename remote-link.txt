@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://maintained-hazards-controls-art.trycloudflare.com/vnc.html
+URL       : https://goal-impaired-vids-dee.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-08 11:40:27
+Created   : 2026-11-08 19:18:51
 =======================================================

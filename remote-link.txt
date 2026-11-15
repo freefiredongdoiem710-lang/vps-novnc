@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cal-disclaimer-coastal-foo.trycloudflare.com/vnc.html
+URL       : https://curious-kick-reproduce-tribunal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-15 12:27:17
+Created   : 2026-11-15 20:06:31
 =======================================================

@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://proof-nelson-excerpt-panel.trycloudflare.com/vnc.html
+URL       : https://neighbors-modem-music-rabbit.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-17 18:56:09
+Created   : 2026-11-18 02:01:07
 =======================================================

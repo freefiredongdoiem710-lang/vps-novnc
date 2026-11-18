@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://neighbors-modem-music-rabbit.trycloudflare.com/vnc.html
+URL       : https://cgi-giants-leon-advancement.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-18 02:01:07
+Created   : 2026-11-18 13:38:53
 =======================================================
